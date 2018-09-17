@@ -1,5 +1,7 @@
 
 # this is my first try 
 first week homework
-## practicing
+## practi
+making some changes from my computer
+
 
